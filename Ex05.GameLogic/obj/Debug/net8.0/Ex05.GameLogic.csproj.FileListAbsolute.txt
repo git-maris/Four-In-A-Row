@@ -1,0 +1,11 @@
+C:\Users\itaym\Desktop\מדמח\שנה ג\C#\A26 Ex05 ItayMerires 315434001 MatanGuetta 318759735\A26 Ex05 ItayMerires 315434001 MatanGuetta 318759735\Ex05.GameLogic\bin\Debug\net8.0\Ex05.GameLogic.deps.json
+C:\Users\itaym\Desktop\מדמח\שנה ג\C#\A26 Ex05 ItayMerires 315434001 MatanGuetta 318759735\A26 Ex05 ItayMerires 315434001 MatanGuetta 318759735\Ex05.GameLogic\bin\Debug\net8.0\Ex05.GameLogic.dll
+C:\Users\itaym\Desktop\מדמח\שנה ג\C#\A26 Ex05 ItayMerires 315434001 MatanGuetta 318759735\A26 Ex05 ItayMerires 315434001 MatanGuetta 318759735\Ex05.GameLogic\bin\Debug\net8.0\Ex05.GameLogic.pdb
+C:\Users\itaym\Desktop\מדמח\שנה ג\C#\A26 Ex05 ItayMerires 315434001 MatanGuetta 318759735\A26 Ex05 ItayMerires 315434001 MatanGuetta 318759735\Ex05.GameLogic\obj\Debug\net8.0\Ex05.GameLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaym\Desktop\מדמח\שנה ג\C#\A26 Ex05 ItayMerires 315434001 MatanGuetta 318759735\A26 Ex05 ItayMerires 315434001 MatanGuetta 318759735\Ex05.GameLogic\obj\Debug\net8.0\Ex05.GameLogic.AssemblyInfoInputs.cache
+C:\Users\itaym\Desktop\מדמח\שנה ג\C#\A26 Ex05 ItayMerires 315434001 MatanGuetta 318759735\A26 Ex05 ItayMerires 315434001 MatanGuetta 318759735\Ex05.GameLogic\obj\Debug\net8.0\Ex05.GameLogic.AssemblyInfo.cs
+C:\Users\itaym\Desktop\מדמח\שנה ג\C#\A26 Ex05 ItayMerires 315434001 MatanGuetta 318759735\A26 Ex05 ItayMerires 315434001 MatanGuetta 318759735\Ex05.GameLogic\obj\Debug\net8.0\Ex05.GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\itaym\Desktop\מדמח\שנה ג\C#\A26 Ex05 ItayMerires 315434001 MatanGuetta 318759735\A26 Ex05 ItayMerires 315434001 MatanGuetta 318759735\Ex05.GameLogic\obj\Debug\net8.0\Ex05.GameLogic.dll
+C:\Users\itaym\Desktop\מדמח\שנה ג\C#\A26 Ex05 ItayMerires 315434001 MatanGuetta 318759735\A26 Ex05 ItayMerires 315434001 MatanGuetta 318759735\Ex05.GameLogic\obj\Debug\net8.0\refint\Ex05.GameLogic.dll
+C:\Users\itaym\Desktop\מדמח\שנה ג\C#\A26 Ex05 ItayMerires 315434001 MatanGuetta 318759735\A26 Ex05 ItayMerires 315434001 MatanGuetta 318759735\Ex05.GameLogic\obj\Debug\net8.0\Ex05.GameLogic.pdb
+C:\Users\itaym\Desktop\מדמח\שנה ג\C#\A26 Ex05 ItayMerires 315434001 MatanGuetta 318759735\A26 Ex05 ItayMerires 315434001 MatanGuetta 318759735\Ex05.GameLogic\obj\Debug\net8.0\ref\Ex05.GameLogic.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ex05.WindowsUI/1.0.0": {
+        "dependencies": {
+          "Ex05.GameLogic": "1.0.0"
+        },
+        "runtime": {
+          "Ex05.WindowsUI.dll": {}
+        }
+      },
+      "Ex05.GameLogic/1.0.0": {
+        "runtime": {
+          "Ex05.GameLogic.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex05.WindowsUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ex05.GameLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
